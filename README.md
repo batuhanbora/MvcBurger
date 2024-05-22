@@ -41,8 +41,8 @@ The project employs Microsoft SQL Server as the database, with Entity Framework 
 This comprehensive software design ensures a scalable, maintainable, and efficient Burger Shop project with a focus on clean code and robust architecture.
 
 ## Developers
-Canberk TİMURLENK <br>
-Batuhan Bora Alaftar
+Batuhan Bora Alaftar <br>
+Canberk TİMURLENK
 
 <br>
 <hr>
